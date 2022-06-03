@@ -1,1 +1,1 @@
-https://Anijke.github.io/rsschool-cv/cvgit
+https://Anijke.github.io/rsschool-cv/cv
