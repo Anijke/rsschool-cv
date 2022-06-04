@@ -10,7 +10,7 @@ I'm a 18 years old student of PSU. I am studing by specialty computer security, 
 I dont feel that my university gives me all usefull information, thats why i decided to gain more new usefull information with help of RS-school.
 Now, I am full of motivation to do this course.
 
-##__My strengths :
+##__My strengths__ :
 **Sociable*
 **Hardworking*
 **Supportive*
