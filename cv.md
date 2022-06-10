@@ -22,4 +22,3 @@ Now, I am full of motivation to do this course.
 ## __Languages :__ 
 * *__English__ - B2*
 * *__Russian__ - Native*
-* *__Belorussian__ - Native*
